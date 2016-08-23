@@ -24,5 +24,6 @@
             "ScoutEngines\\Elasticsearch\\Test\\": "tests"
         }
     },
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
